@@ -79,8 +79,6 @@ printSuccess();
 <div class="form-group">
 <input type="submit" name="login" value="sign in" class="btn btn-success" />
 <input type="button" value="sign up" id="hrefBtn"  onclick="location.href='./signup.php'" class="btn btn-primary"/></div>
-
-
 </form>
 </div>
 </div>
